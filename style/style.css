@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(34, 33, 33);
+    display: flex;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container{
+    margin: 0 auto;
+    padding-left: 3%;
+    padding-top: 9%;
+}
+
+.margen{
+    margin-left: 5%;
+}
+
+.margen2{
+    margin-left: 10%;
+}
+
+p{
+    color: white;
+}
+
+.blue{
+    color: #4682B4;
+}
+
+.yellow{
+    color: #F7EF81;
+}
+
+.celeste{
+    color: #73C2F8;
+}
+
+.green{
+    color: rgb(92, 187, 144);
+}
+
+.greenS{
+    color: rgb(82, 183, 136);
+}
+
+.purple{
+    color: rgb(230, 192, 233);
+}
+
+.ogreen{
+    color: rgb(216, 243, 220);
+}
+
+.orange{
+    color: #e28354;
+}
+
+a{
+    margin-left: 35%;
+    text-decoration: none;
+    color: white;
+}
